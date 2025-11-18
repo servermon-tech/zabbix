@@ -5,7 +5,7 @@
 #
 
 # 스크립트 디렉토리
-SCRIPT_DIR="/etc/zabbix/zabbix_agentd.d"
+SCRIPT_DIR="/etc/zabbix/zabbix_agent2.d"
 PHP_SCRIPT="${SCRIPT_DIR}/zabbix_db_query.php"
 
 # PHP 경로 (시스템에 맞게 수정)
